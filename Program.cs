@@ -37,6 +37,21 @@ class Program
         Console.WriteLine(salarioInteior);
 
 
+        //Utilizamos quando o numero é muito longo.
+
+        long x;
+        x = 20000000000000000000000;
+
+        //Utilizamos quando o numero é menor.
+
+        short y;
+        y = 15000;
+
+        //Utilizamo quando utlizamos numero com, mas precisa ser mais preciso nos 
+        //números depois da vírgula.
+        float altura;
+        altura = 1.62f;
+
 
         Console.WriteLine("Tecle Enter para fechar");
 
