@@ -52,6 +52,26 @@ class Program
         float altura;
         altura = 1.62f;
 
+        //Armazenando Caracteres
+
+        Console.WriteLine("Executando Caracteres");
+
+        char letra = 'A';   
+        Console.WriteLine(letra);
+
+        //Textos - Usando @ para fazer lista.
+
+        string Cursos = @"Cursos Disponiveis:
+        C#
+        Nodejs
+        Java
+        Phyton";
+
+
+        Console.WriteLine(Cursos);
+        
+
+
 
         Console.WriteLine("Tecle Enter para fechar");
 
