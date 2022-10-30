@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandocomIF", "..\Trab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "..\Escopo\Escopo.csproj", "{3499E458-E5FF-4FDA-966D-214D564430FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoWhile", "..\ProjetoWhile\ProjetoWhile.csproj", "{3780EB03-75E0-4DD1-AF76-7ACF5FDA1B75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3499E458-E5FF-4FDA-966D-214D564430FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3499E458-E5FF-4FDA-966D-214D564430FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3499E458-E5FF-4FDA-966D-214D564430FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3780EB03-75E0-4DD1-AF76-7ACF5FDA1B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3780EB03-75E0-4DD1-AF76-7ACF5FDA1B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3780EB03-75E0-4DD1-AF76-7ACF5FDA1B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3780EB03-75E0-4DD1-AF76-7ACF5FDA1B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
